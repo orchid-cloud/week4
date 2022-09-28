@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/orchid-cloud/week4.git/static/css/main.073c9b0a.css",
+    "main.js": "/orchid-cloud/week4.git/static/js/main.297b605a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/orchid-cloud/week4.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/orchid-cloud/week4.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/orchid-cloud/week4.git/index.html",
+    "main.073c9b0a.css.map": "/orchid-cloud/week4.git/static/css/main.073c9b0a.css.map",
+    "main.297b605a.js.map": "/orchid-cloud/week4.git/static/js/main.297b605a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/orchid-cloud/week4.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.297b605a.js"
+  ]
+}
